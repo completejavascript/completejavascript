@@ -6,20 +6,20 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=completejavascript&theme=default)
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=completejavascript&theme=default" />
     </td>
-    <td align="center">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=completejavascript&theme=default" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=completejavascript&theme=default" />
     </td>
-    <td align="center">
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=completejavascript&theme=default&utcOffset=8" />
     </td>
   </tr>
