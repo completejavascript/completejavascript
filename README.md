@@ -4,4 +4,4 @@
 
 ---
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=completejavascript&show_icons=true&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=completejavascript&theme=default)
