@@ -1,13 +1,34 @@
-### Hey there, I'm [Lam Pham!](https://about.phamvanlam.com/) 👨‍💻
-⚡ I am a Software Engineer, Web Developer, JavaScript Lover & Blogger [@completejavascript](http://completejavascript.com/) 🚀.
+### Hey there 👋 I'm Lam Pham
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=completejavascript&theme=default)
+Software Engineer • Web Developer • JavaScript Enthusiast  
+I build **developer tools** and write about **JavaScript & Web Engineering**.
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=completejavascript&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=completejavascript&theme=default" />
-</div>
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=completejavascript&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=completejavascript&theme=default&utcOffset=8" />
-</div>
+---
+
+### ✍️ I write technical blogs
+📚 Deep dives, tutorials & real-world experience about JavaScript, Web, and Backend
+
+👉 **Blog:** https://completejavascript.com
+
+---
+
+### 🛠️ I build tools for developers
+A growing collection of free & premium tools to improve developer productivity.
+
+👉 **Tools:** https://toolskitplus.com
+
+---
+
+### 🚀 What I focus on
+- JavaScript / TypeScript
+- Frontend & Backend Web Development
+- Performance & Developer Experience
+- Building useful tools with real users
+
+---
+
+### 📬 Connect with me
+- Website: https://about.phamvanlam.com
+- Blog: https://completejavascript.com
+- Tools: https://toolskitplus.com
+- GitHub: https://github.com/completejavascript
