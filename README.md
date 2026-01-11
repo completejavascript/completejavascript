@@ -12,7 +12,7 @@ I build **developer tools** and write about **JavaScript & Web Engineering**.
 
 ---
 
-### 🛠️ I build tools for developers
+### 🛠️ I build tools for everyone
 A growing collection of free & premium tools to improve developer productivity.
 
 👉 **Tools:** https://toolskitplus.com
@@ -28,7 +28,7 @@ A growing collection of free & premium tools to improve developer productivity.
 ---
 
 ### 📬 Connect with me
-- Website: https://about.phamvanlam.com
+- Portfolio: https://about.phamvanlam.com
 - Blog: https://completejavascript.com
 - Tools: https://toolskitplus.com
 - GitHub: https://github.com/completejavascript
